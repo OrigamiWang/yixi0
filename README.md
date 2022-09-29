@@ -1,5 +1,5 @@
-- Detail: Computer science student of SZU
-- Name: wangYiXi
-- Gender: man
+- Detail: Student majoring in software engineering of SZU
+- Name: Origami Wang
+- Sex: male
 - Age: 19
 - Email：2241375541@qq.com
